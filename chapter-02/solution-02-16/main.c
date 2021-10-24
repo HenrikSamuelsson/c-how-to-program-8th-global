@@ -33,7 +33,7 @@ int main(void)
     int quotient = num1 / num2;      // Calculate quotient.
     int remainder = num1 % num2;     // Calculate remainder.
 
-    // Print out the results of all the calculations.
+    // Print out results of all the calculations.
     printf("sum = %d\n", sum);
     printf("product =  %d\n", product);
     printf("difference = %d\n", difference);
