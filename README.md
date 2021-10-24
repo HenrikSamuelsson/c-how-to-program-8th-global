@@ -1,6 +1,6 @@
-# Exercise - Solutions C How to Program
+# C How to Program Exercise Solutions
 
-This repository holds exercise solutions for the book C How to Program.
+This repository holds solutions for exercises found in the book C How to Program.
 
 ## About the Book
 
