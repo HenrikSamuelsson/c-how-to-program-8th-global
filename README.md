@@ -4,9 +4,9 @@ This repository holds solutions for exercises found in the book C How to Program
 
 ## About the Book
 
-The book is written by Paul Deitel and Harvey Deitel and have been published in multiple different editions. The content in this repository is based on the followig edition:
+The book is written by Paul Deitel and Harvey Deitel and have been published in multiple different editions. The content in this repository is based on the following edition:
 
-Title: C How to Prgoram, Global edition, 8th Edition  
+Title: C How to Program, Global edition, 8th Edition  
 Publisher: Pearson  
 Publication year: 2016  
 ISBN-13: 978-1-292-11097-4  
