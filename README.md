@@ -4,8 +4,8 @@ This repository holds solutions for exercises found in the book C How to Program
 
 ## Table of Contents
 
-[About the Book](##about-the-book)  
-[About the Exercise Solutions](##about-the-exercise-solutions)
+[About the Book](#about-the-book)  
+[About the Exercise Solutions](#about-the-exercise-solutions)
 
 ## About the Book
 
