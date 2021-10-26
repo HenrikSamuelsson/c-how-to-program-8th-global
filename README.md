@@ -2,6 +2,11 @@
 
 This repository holds solutions for exercises found in the book C How to Program.
 
+## Table of Contents
+
+[About the Book](##about-the-book)  
+[About the Exercise Solutions](##about-the-exercise-solutions)
+
 ## About the Book
 
 The book is written by Paul Deitel and Harvey Deitel and have been published in multiple different editions. The content in this repository is based on the following edition:
@@ -13,7 +18,7 @@ ISBN-13: 978-1-292-11097-4
 
 ![C How to Program book cover](./pictures/cover-c-how-to-program-8th-global-ed-xs.jpg)
 
-## Exercise Solutions
+## About the Exercise Solutions
 
 The book includes exercises and this repository holds solutions to some of these. The solutions are written by ordinary readers of the book and not associated with the book authors or the publisher.
 
