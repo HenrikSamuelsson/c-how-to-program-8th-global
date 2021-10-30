@@ -18,7 +18,7 @@ Publisher: Pearson
 Publication year: 2016  
 ISBN-13: 978-1-292-11097-4  
 
-![C How to Program book cover](./pictures/content/mete/pictures/cover-c-how-to-program-8th-global-ed-xs.jpg)
+![C How to Program book cover](./content/mete/pictures/cover-c-how-to-program-8th-global-ed-xs.jpg)
 
 ## About the Exercise Solutions
 
