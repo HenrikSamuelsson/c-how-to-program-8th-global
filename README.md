@@ -5,7 +5,9 @@ This repository holds solutions for exercises found in the book C How to Program
 ## Table of Contents
 
 [About the Book](#about-the-book)  
-[About the Exercise Solutions](#about-the-exercise-solutions)
+[About the Exercise Solutions](#about-the-exercise-solutions)  
+[Chapter 1 Exercise Solutions](#chapter-1-exercise-solutions)  
+[Chapter 2 Exercise Solutions](#chapter-2-exercise-solutions)  
 
 ## About the Book
 
@@ -22,4 +24,8 @@ ISBN-13: 978-1-292-11097-4
 
 The book includes exercises and this repository holds solutions to some of these. The solutions are written by ordinary readers of the book and not associated with the book authors or the publisher.
 
-The end goal is to have a complete set of high quality solutions. But no guarantee about the correctness or quality is given.
+The end goal is to have a complete set of high quality solutions.
+
+## Chapter 1 Exercise Solutions
+
+## Chapter 2 Exercise Solutions
