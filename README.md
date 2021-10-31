@@ -29,5 +29,6 @@ The end goal is to have a complete set of high quality solutions.
 ## Chapter 1 Exercise Solutions
 
 [Solution Exercise 1.1](content/solutions/chapter-01/solution-01-01/solution-01-01.md)  
+[Solution Exercise 1.2](content/solutions/chapter-01/solution-01-02/solution-01-02.md)  
 
 ## Chapter 2 Exercise Solutions
