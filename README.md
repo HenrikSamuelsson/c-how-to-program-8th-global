@@ -32,3 +32,6 @@ The end goal is to have a complete set of high quality solutions.
 [Solution Exercise 1.2](content/solutions/chapter-01/solution-01-02/solution-01-02.md)  
 
 ## Chapter 2 Exercise Solutions
+
+[Solution Exercise 2.15](content/solutions/chapter-02/solution-02-15/solution-02-15.md)  
+[Solution Exercise 2.16](content/solutions/chapter-02/solution-02-16/main.c)  
