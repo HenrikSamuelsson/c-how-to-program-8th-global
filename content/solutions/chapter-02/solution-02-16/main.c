@@ -18,8 +18,8 @@
 
 int main(void)
 {
-    // Ask user to enter two numbers.
-    printf("Enter two integer numbers: ");
+    // Prompt user to enter two numbers.
+    printf("%s", "Enter two integer numbers: ");
 
     int num1;    // Storage for first number.
     int num2;    // Storage for second number.
