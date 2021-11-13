@@ -4,7 +4,7 @@ Self-review exercise solution about basic introductory C programming concepts.
 
 ## a)
 
-The function printf will not always begin printing at the beginning of a new line. Assume for example the following statements.
+The function `printf` will not always begin printing at the beginning of a new line. Assume for example the following statements.
 
 ``` C
 printf("%s", "part 1");
@@ -43,7 +43,7 @@ Variable definitions can appear anywhere in the body of a function as long as th
 
 ## h)
 
-All arguments following the format control string `printf` function must not be preceded by an ampersand (&). Take for example the following `printf` that will compile just fine.
+All arguments following the format control string `printf` function must not be preceded by an ampersand (&). Take for example the following `printf` statement that will compile just fine.
 
 ``` C
 printf("Your age is %d", age);
@@ -53,8 +53,8 @@ printf("Your age is %d", age);
 
 The arithmetic operators `*`, `/`, `%`, `+` and `-` does not have the same level of precedence. 
 
-The set of arithmetic operators `*`, `/`, and `%` have the same level of precedence. And the then the set of arithmetic operators `+` and `-` have the same level of precedence. But the first set have higher level of precedence than the second set.
+The set of arithmetic operators `*`, `/`, and `%` have the same level of precedence. And the set of arithmetic operators `+` and `-` have the same level of precedence. The first mentioned set have higher level of precedence than the second set.
 
 ## j)
 
-There is no relation between the number of lines of output and the number of printf statements because each `/n` in the printf will cause the cursor to move to a new line.
+There is no relation between the number of lines of output and the number of `printf` statements because each `/n` in the printf will cause the cursor to move to a new line and a `printf` statement can have multiple of these.
