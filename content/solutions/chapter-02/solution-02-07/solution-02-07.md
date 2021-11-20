@@ -35,3 +35,19 @@ A corrected version can then be the following.
 ```C
 printf("The sum of %d and %d is %d /n", x, y, sum);
 ```
+
+## c)
+
+```C
+a + b + c = sum;
+```
+
+Intention here is to add up values and place the result in a variable called sum.
+
+The error is that order have been mixed up. The sum shall be on the left side of the `=` and the calculation goes on the right side.
+
+A corrected version can be the following.
+
+```C
+sum = a + b + c;
+```
