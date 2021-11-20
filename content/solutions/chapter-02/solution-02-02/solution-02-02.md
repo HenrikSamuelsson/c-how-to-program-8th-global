@@ -51,7 +51,7 @@ printf("Your age is %d", age);
 
 ## i)
 
-The arithmetic operators `*`, `/`, `%`, `+` and `-` does not have the same level of precedence. 
+The arithmetic operators `*`, `/`, `%`, `+` and `-` does not have the same level of precedence.
 
 The set of arithmetic operators `*`, `/`, and `%` have the same level of precedence. And the set of arithmetic operators `+` and `-` have the same level of precedence. The first mentioned set have higher level of precedence than the second set.
 
