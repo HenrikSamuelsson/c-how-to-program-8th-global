@@ -73,3 +73,19 @@ A corrected version can be the following.
 if (number > largest)
     largest = number;
 ```
+
+## e)
+
+```C
+\\ Program to determine the largest of three integers
+```
+
+Intention is here to add a comment to the source code but back slashes have been used instead of forward slashes.
+
+It is unfortunately common to not use punctuation in comments. This is just due to laziness. Comments are written in English and should hence use punctuation because this is part of the English language.
+
+A corrected version can be the following.
+
+```C
+// Program to determine the largest of three integers.
+```
