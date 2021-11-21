@@ -82,7 +82,7 @@ if (number > largest)
 
 Intention is here to add a comment to the source code but back slashes have been used instead of forward slashes.
 
-It is unfortunately common to not use punctuation in comments. This is just due to laziness. Comments are written in English and should hence use punctuation because this is part of the English language.
+It is unfortunately common to not use punctuation in comments. This is just due to plain laziness. Comments are written in English and should hence use punctuation because this is part of the English language.
 
 A corrected version can be the following.
 
