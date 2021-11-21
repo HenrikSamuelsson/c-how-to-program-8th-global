@@ -96,9 +96,9 @@ A corrected version can be the following.
 scanf("%f", float);
 ```
 
-Intention is here to get input in the form of a floating point number. The input shall be stored in a variable called `float`.
+Intention is here to get input in the form of a floating point number. The input is attempted to be stored in a variable called `float`.
 
-First error is tha `float` is a reserved keyword in C used to declare a variable as a floating point number. It is not possible to name a variable to any of the reserved keywords.
+First error is that `float` is a reserved keyword in C used to declare a variable as a floating point number. It is not possible to name a variable to any of the reserved keywords.
 
 Second error is that 'scanf' takes the address of an variable as argument and not the name of the variable, the address of operator will hence need to be added.
 
