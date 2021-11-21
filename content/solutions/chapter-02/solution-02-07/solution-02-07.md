@@ -107,3 +107,21 @@ A corrected version can be the following.
 ```C
 scanf("%f", &myFloat);
 ```
+
+## g)
+
+```C
+printf("Remainder of %d divided by %d is \n", x, y, x / y);
+```
+
+Intention is here to output the remainder when dividing two decimal numbers.
+
+First error is that the result is not part of what will be output, there should be a an additional `%d` format specifier since a total of three decimal numbers are to be printed.
+
+Second error is that a division is done instead of calculating the remainder.
+
+A corrected version can be the following.
+
+```C
+printf("Remainder of %d divided by %d is %d \n", x, y, x % y);
+```
