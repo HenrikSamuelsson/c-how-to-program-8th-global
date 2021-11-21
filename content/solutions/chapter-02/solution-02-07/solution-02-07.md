@@ -125,3 +125,23 @@ A corrected version can be the following.
 ```C
 printf("Remainder of %d divided by %d is %d \n", x, y, x % y);
 ```
+
+## h)
+
+```C
+if (x => y);
+    printf("%d is greater than or equal to %d\n, x, y");
+```
+
+Intention is here to check if a number `x` is greater or equal to another number `y` and if so output a message informing that this is so.
+
+First error is that the greater or equal to operator is not correct, it shall be `>=`.
+
+Second error is that there is a semicolon directly after the if statement that should no be there.
+
+A corrected version can be the following.
+
+```C
+if (x >= y)
+    printf("%d is greater than or equal to %d\n, x, y");
+```
