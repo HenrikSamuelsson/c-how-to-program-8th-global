@@ -59,15 +59,17 @@ if (number >= largest);
     largest == number;
 ```
 
-Intention is here to find the largest number by updating the variable `largest` if the value of the variable `number` is larger or equal to the value that `largest` holds.
+Intention is here to find the largest number by updating the variable `largest` if the value of the variable `number` is larger.
 
 First error is that there is a semicolon after the `if` statement causing the second statement to always be executed regardless of the result of the comparison in the if statement.
 
 Second error is that comparison operator `==` is used instead of the assignment operator `=`.
 
+Finally it can be argued that the comparison in the if statement can use `>` instead of `>=` since there is no need to do the assignment if the two variables are already equal.
+
 A corrected version can be the following.
 
 ```C
-if (number >= largest)
+if (number > largest)
     largest = number;
 ```
