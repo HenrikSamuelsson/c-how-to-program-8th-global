@@ -139,9 +139,29 @@ First error is that the greater or equal to operator is not correct, it shall be
 
 Second error is that there is a semicolon directly after the if statement that should no be there.
 
+Third error is that the second apostrophe is misplaced, it shall follow directly after the new line indicator.
+
 A corrected version can be the following.
 
 ```C
 if (x >= y)
-    printf("%d is greater than or equal to %d\n, x, y");
+    printf("%d is greater than or equal to %d\n", x, y);
+```
+
+## i)
+
+```C
+print("The product is &d\n," x * y);
+```
+
+The intention is here to print the result of a multiplication.
+
+First error is that to output so shall `printf` generally be used and here there seems to be a typo since print is attempted to be used.
+
+Second error is that ampersand shall be not be there, it shall be the `%` symbol. The latter is used to indicate the start of the format specifier indicating that a decimal integer is to be output.
+
+A corrected version can be the following.
+
+```C
+printf("The product is %d\n," x * y);
 ```
