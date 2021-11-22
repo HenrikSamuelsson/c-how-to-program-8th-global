@@ -168,11 +168,11 @@ printf("The product is %d\n," x * y);
 
 ## j)
 
-The intention is here to take three different integers as input to be stored in three different variables called x, y, and z.
-
 ```C
 scanf("%d, %d, %d", &x &y &z);
 ```
+
+The intention is here to take three different integers as input to be stored in three different variables called x, y, and z.
 
 The error is that the placement of the commas is incorrect.
 
