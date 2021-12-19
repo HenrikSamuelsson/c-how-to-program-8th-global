@@ -4,7 +4,7 @@ Self-review exercise solution about basic introductory C programming concepts.
 
 ## a)
 
-The function `printf` will not always begin printing at the beginning of a new line. Assume for example the following statements.
+The function `printf` will not automatically always begin printing at the beginning of a new line. Assume for example the following statements.
 
 ``` C
 printf("%s", "part 1");
