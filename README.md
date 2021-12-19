@@ -22,7 +22,7 @@ ISBN-13: 978-1-292-11097-4
 
 ## About the Exercise Solutions
 
-The book includes exercises and this repository holds solutions to some of these. The solutions are written by ordinary readers of the book and not associated with the book authors or the publisher.
+The book includes exercises and this repository holds solutions to some of these. The solutions are written by ordinary readers of the book, there is no association with the book authors or the publisher.
 
 The end goal is to have a complete set of high quality solutions.
 
