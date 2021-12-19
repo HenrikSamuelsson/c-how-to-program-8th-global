@@ -25,7 +25,7 @@ int main(void)
     int num2;    // Storage for second number.
 
     // Obtain the numbers from the user.
-    scanf("%d %d", &num1, &num2);
+    scanf_s("%d %d", &num1, &num2);
 
     int sum = num1 + num2;           // Calculate sum.
     int product = num1 * num2;       // Calculate product.
