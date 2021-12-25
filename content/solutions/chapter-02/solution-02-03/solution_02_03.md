@@ -32,3 +32,17 @@ Alternative solution.
 ```C
 printf("Enter an integer: ");
 ```
+
+## c)
+
+Statement to read an integer entered on the keyboard and store it in an variables called a.
+
+```C
+scanf("%d", &a);
+```
+
+Alternative solution.
+
+```C
+scanf_s("%d", &a);
+```

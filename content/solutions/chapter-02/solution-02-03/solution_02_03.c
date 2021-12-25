@@ -21,5 +21,12 @@ int main(void)
     /* Solution 2.3 b) */
     printf("%s", "Enter an integer: ");
 
+    /* Solution 2.3 c) */
+    int a;
+    scanf("%d", &a);
+
+    printf("a = %d\n", a);
+
+    scanf_s("%d", &a);
     return EXIT_SUCCESS;
 }
